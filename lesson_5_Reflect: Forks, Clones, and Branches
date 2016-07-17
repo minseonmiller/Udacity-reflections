@@ -1,0 +1,3 @@
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is cloning btwn git to git, clone is copying from either local to local or from git to local (or vice versa), branch is for local repository when a new file is being added.
